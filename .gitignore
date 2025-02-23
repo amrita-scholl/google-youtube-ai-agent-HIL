@@ -1,0 +1,5 @@
+.env
+env
+.conda*
+blog_generator/__pycache__/*
+blog_generator\__pycache__\*
